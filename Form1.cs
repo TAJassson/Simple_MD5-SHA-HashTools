@@ -51,7 +51,7 @@ namespace WinFormsApp3
         private void btnSHAEncrypt_Click(object sender, EventArgs e)
         {
             using var sha256 = SHA256.Create();
-            byte[] bytes = sha256.ComputeHash(Encoding.UTF8.GetBytes(txtEncrypt.Text));
+            byte[] bytes = sha256.ComputeHash(Encoding.UTF8.GetBytes(txtValue.Text));
             var sb = new StringBuilder();
             for (int i = 0; i < bytes.Length; i++)
             {
