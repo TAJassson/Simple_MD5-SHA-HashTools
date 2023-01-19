@@ -1,5 +1,5 @@
 # Simple_MD5-SHA-HashTools
-C# Project for MD5 and SHA Hash Tools to encrypt MD5 / SHA5 and decrypt MD5
+C# Project for MD5 and SHA Hash Tools to encrypt and decrypt
 
 ![image](https://user-images.githubusercontent.com/93077307/213340837-a165f7c9-613e-4bad-811e-1142c1e9c934.png)
 
