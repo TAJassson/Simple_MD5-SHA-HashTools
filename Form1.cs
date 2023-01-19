@@ -57,7 +57,7 @@ namespace WinFormsApp3
             {
                 sb.Append(bytes[i].ToString("x2"));
             }
-            txtDecrypt.Text = sb.ToString();
+            txtEncrypt.Text = sb.ToString();
         }
 
         private void label3_Click(object sender, EventArgs e)
@@ -93,7 +93,7 @@ namespace WinFormsApp3
             {
                 sb.Append(bytes[i].ToString("x2"));
             }
-            txtDecrypt.Text = sb.ToString();
+            txtEncrypt.Text = sb.ToString();
         }
     }
     }
