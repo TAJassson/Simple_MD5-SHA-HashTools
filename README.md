@@ -20,3 +20,7 @@ IT SHOULD BE EASY TO USE IT RIGHT? LOL
 //Last Update: 19.1.23
 
 //Donate me for the beer haha :)
+
+//Steal my code or 8964? 
+
+//I wish kick you ass Huawei 
